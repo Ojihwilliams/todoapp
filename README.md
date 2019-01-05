@@ -1,3 +1,3 @@
 # todoapp
 a simple php todo app
-this is a simple todolist
+this is a simple todoapp
